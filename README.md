@@ -1,5 +1,5 @@
-# Traffic-Sign-Classification-with-Convolutional-Neural-Networks
-Traffic Sign Classification using Convolutional Neural Networks
+# Traffic-Sign-Classification-with-Convolutional-Neural-Networks using Keras
+Traffic Sign Classification using Convolutional Neural Networks with Keras
 
 # About withCNN.py
 This is the file of building and training a CNN model.
