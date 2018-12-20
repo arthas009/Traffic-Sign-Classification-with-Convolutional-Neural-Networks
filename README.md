@@ -5,6 +5,8 @@ Traffic Sign Classification using Convolutional Neural Networks with Keras
 This is the file of building and training a CNN model.
 You must set all data paths according to your own train/test locations.
 
+# About my_model.h5
+CNN ready model. You can use this .h5 file if you directly load it on your project. Test accuracy = %94
 
 You can find a dataset for traffic signs here. https://btsd.ethz.ch/shareddata/. Belgium Traffic Signs Dataset for 62 different sign which I used in this project.
 AFTER 50 EPOCH %99 TRAIN AND %96 VALIDATION ACCURACY.
