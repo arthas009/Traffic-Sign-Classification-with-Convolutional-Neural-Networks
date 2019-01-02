@@ -1,5 +1,7 @@
 # Traffic-Sign-Classification-with-Convolutional-Neural-Networks using Keras
 Traffic Sign Classification using Convolutional Neural Networks with Keras
+![alt text](https://github.com/arthas009/Traffic-Sign-Classification-with-Convolutional-Neural-Networks/blob/master/Cover.png)
+
 
 # DATASET AND RESULTS
 You can find a dataset for traffic signs here. https://btsd.ethz.ch/shareddata/. Belgium Traffic Signs Dataset for 62 different sign which I used in this project.
