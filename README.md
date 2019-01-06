@@ -19,4 +19,5 @@ CNN ready model. You can use this .h5 file if you directly load it on your proje
 You can make a simple application using the python codes in GUI folder. To test the model we built, specify a image path and wait for the prediction result :)
 Traffic Sign Names array for Turkish language.
 
-
+# Detailed Video in the link below in Turkish Language
+https://www.youtube.com/watch?v=I9JndCFo_p0&t=791s
